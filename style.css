@@ -50,7 +50,7 @@ ul {
 
 .insights-img {
   position: relative;
-  background-image: url(../images/image-header-desktop.jpg);
+  background-image: url(images/image-header-desktop.jpg);
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -115,7 +115,7 @@ ul {
   }
 
   .insights-img {
-    background-image: url(../images/image-header-mobile.jpg);
+    background-image: url(images/image-header-mobile.jpg);
     height: 26rem;
     grid-column: 1;
     grid-row: 1;
